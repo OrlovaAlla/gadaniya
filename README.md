@@ -1,2 +1,2 @@
 Адаптив;
-/HTML,CSS,JS,jQuery/
+/HTML, CSS, JS, jQuery/
