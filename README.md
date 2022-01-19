@@ -1,1 +1,2 @@
-# gadaniya
+Адаптив;
+/HTML,CSS,JS/
